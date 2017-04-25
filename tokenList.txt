@@ -1,0 +1,17 @@
+importR                                 import                                  1
+string                                  "./home/rodrigo/casa.cpp"               1
+;                                       ;                                       1
+intR                                    int                                     2
+main                                    main                                    2
+(                                       (                                       2
+)                                       )                                       2
+{                                       {                                       2
+intR                                    int                                     3
+id                                      casadg                                  3
+=                                       =                                       3
+float                                   223.41                                  3
+;                                       ;                                       3
+return                                  return                                  4
+int                                     0                                       4
+;                                       ;                                       4
+}                                       }                                       5
